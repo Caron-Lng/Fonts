@@ -1,0 +1,3 @@
+#ignore most of the file including macos files
+*.DS_Store
+*.zip
